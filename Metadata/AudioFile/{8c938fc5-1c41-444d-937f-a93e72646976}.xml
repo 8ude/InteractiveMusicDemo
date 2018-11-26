@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{8c938fc5-1c41-444d-937f-a93e72646976}">
+        <property name="assetPath">
+            <value>Clav120.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>16</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{441377ad-3d18-4de9-8b72-e46c158fc98e}</destination>
+        </relationship>
+    </object>
+</objects>
